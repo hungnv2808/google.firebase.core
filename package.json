@@ -4,7 +4,6 @@
   "displayName": "Firebase UPM Wrapper",
   "description": "Firebase SDK via UPM",
   "dependencies": {
-    "com.google.external-dependency-manager": "file:Plugins/com.google.external-dependency-manager-1.2.186.tgz",
     "com.google.firebase.app": "file:Plugins/com.google.firebase.app-13.9.0.tgz",
     "com.google.firebase.analytics": "file:Plugins/com.google.firebase.analytics-13.9.0.tgz",
     "com.google.firebase.crashlytics": "file:Plugins/com.google.firebase.crashlytics-13.9.0.tgz"
